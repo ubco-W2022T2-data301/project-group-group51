@@ -17,7 +17,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 ## Team Members
 
 - Person 1: Hello my name is Ken I am a 3rd year Computer science student.
-- Person 2: one sentence about you!
+- Person 2: My name is Max, I am a 3rd year Math and Economics student.
 - Person 3: one sentence about you!
 
 ## Images
