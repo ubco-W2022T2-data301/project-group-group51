@@ -1,0 +1,101 @@
+[33mcommit 1c1855d6b78605521ddbfa60b11afccc5b0cdab1[m[33m ([m[1;36mHEAD -> [m[1;32mnewchange2[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: mtidman <maxtidman@gmail.com>
+Date:   Thu Mar 2 09:51:57 2023 -0800
+
+    Finished Milestone 3
+
+[33mcommit fb7dda59368a5ad11ae0eb0e70a1961397292458[m
+Author: KenichiroAnderson <andersonken048@gmail.com>
+Date:   Thu Mar 2 07:48:30 2023 -0800
+
+    Milsetone 3 added KenAnderson
+
+[33mcommit ce492bafe2d04897d04df91e946a1198540a4f67[m
+Author: mtidman <maxtidman@gmail.com>
+Date:   Sun Feb 26 12:38:48 2023 -0800
+
+    Started MS 3
+
+[33mcommit d986f9352680351615bf0e4a713aabcd7b043513[m
+Author: KenichiroAnderson <77311753+KenichiroAnderson@users.noreply.github.com>
+Date:   Fri Feb 3 10:38:14 2023 -0800
+
+    Update README.md
+
+[33mcommit 61658831cdcf1fe3001ae632e22e6d514b24c878[m
+Author: mtidman <75445811+mtidman@users.noreply.github.com>
+Date:   Wed Feb 1 09:50:43 2023 -0800
+
+    Update README.md
+
+[33mcommit c283991b6d7f898d56fbb5d830b9307a5313d0af[m
+Author: mtidman <75445811+mtidman@users.noreply.github.com>
+Date:   Wed Feb 1 09:50:08 2023 -0800
+
+    Update README.md
+
+[33mcommit 2851236fa7bc6f47d7bba701b8aa4351b6bd2abd[m
+Author: KenichiroAnderson <andersonken048@gmail.com>
+Date:   Tue Jan 31 11:06:57 2023 -0800
+
+    pie chart messed with
+
+[33mcommit d15273e57af783a2c0986e1a5a50234140da1a1c[m
+Author: KenichiroAnderson <andersonken048@gmail.com>
+Date:   Tue Jan 31 10:11:36 2023 -0800
+
+    readme.md was edited to add desciptions of project feel free to change this
+
+[33mcommit c29469975f6486a4d193a541cb2168319357ffd7[m
+Merge: da41f8a 45db084
+Author: KenichiroAnderson <andersonken048@gmail.com>
+Date:   Tue Jan 31 09:49:59 2023 -0800
+
+    Merge branch 'main' of https://github.com/ubco-W2022T2-data301/project-group-group51
+
+[33mcommit da41f8ade9c89a6f6a7f26752feeb19b28bb9b08[m
+Author: KenichiroAnderson <andersonken048@gmail.com>
+Date:   Tue Jan 31 09:49:31 2023 -0800
+
+    pie chart legend added
+
+[33mcommit 45db0847cde868054543f251d921e139b4860883[m
+Author: Firas Moosvi <firas@moosvi.com>
+Date:   Mon Jan 30 12:31:22 2023 -0800
+
+    Add files via upload
+    
+    Hello, I realized I forgot to add the pre-commit file in the template, so I'm adding it here. Please run `git pull` if you already cloned the repo, and then
+    
+    > Run the following command `pre-commit install` to install the pre-commit hooks I have added to this repo to protect you from accidentally committing large files to the repo, committing files that contain merge conflicts (without resolving them), and hopefully, preventing you from committing broken Jupyter notebook files.
+
+[33mcommit 89c9aed926c479aff62e808a340f21e73087b635[m
+Merge: 307feef a66e461
+Author: KenichiroAnderson <andersonken048@gmail.com>
+Date:   Mon Jan 30 10:38:50 2023 -0800
+
+    Merge branch 'main' of https://github.com/ubco-W2022T2-data301/project-group-group51
+
+[33mcommit 307feef10deb5a9bf28af84566c65f4375428ed3[m
+Author: KenichiroAnderson <andersonken048@gmail.com>
+Date:   Mon Jan 30 10:38:30 2023 -0800
+
+    Main file fixed
+
+[33mcommit a66e46160e9e42a603f9afa27aba5edc5b91dbff[m
+Author: mtidman <maxtidman@gmail.com>
+Date:   Mon Jan 30 10:14:19 2023 -0800
+
+    Added Airline Consumer Report
+
+[33mcommit 016076d122e9a889f6933a7a453ad34bf62f7016[m
+Author: KenichiroAnderson <andersonken048@gmail.com>
+Date:   Mon Jan 30 10:12:51 2023 -0800
+
+    main added
+
+[33mcommit 718fb02773f6176514bcc42b484a6c5b0fe4054b[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon Jan 30 18:05:46 2023 +0000
+
+    Initial commit
