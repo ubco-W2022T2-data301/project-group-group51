@@ -1,6 +1,6 @@
 # Group 51 - {What's the most successful airline}
 
-- Airline Flight data, Assesing the best airline.
+- Airline Flight data, Assesing the best airline and ways to reach your intended destination on time.
 
 ## Milestones
 
@@ -8,7 +8,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words 
 
-{We are interested in airline flight data and analyzing the truly best airline. as we will take into account the unbiased parts of air travel like: all sorts of delays, on time arrivals, late departures and much more. Also within other data sets we will look into lost baggage data. We will be comparing all U.S Based airlines, the data curated will be from pre covid times as these seem to be the baseline for the actual data. However we will take into regard newer data as well as during covid as it is valuable data on what airlines were able to perform the best during questionable times. Also an important experience of air travel is the flight being oversold, undersold we will regard this data highly as this shows the true redundancy of the airline.}
+{We are interested in airline flight data and analyzing the truly best airline. as we will take into account the unbiased parts of air travel like: all sorts of delays, on time arrivals, late departures and much more. Also within other data sets we will look into lost baggage data. We will be comparing all U.S Based airlines, the data curated will be from post covid times as these seem to be the best baseline for the recent data. However we will take into regard newer data as well as during covid as it is valuable data on what airlines were able to perform the best during questionable times. Also an important experience of air travel is the flight being oversold, undersold we will regard this data highly as this shows the true redundancy of the airline.}
 
 ## Describe your dataset in about 150-200 words
 
