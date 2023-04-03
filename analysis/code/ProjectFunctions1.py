@@ -19,14 +19,16 @@ def grouped_Month(file):
     )
     return processed_month
 
-airlinedata3=pd.read_csv('../data/raw/airline_data_filtered.csv').drop(['Unnamed: 0','carrier_ct'],axis=1)
-
-airlinedata1['not_carrier_rltd']=airlinedata1['nas_delay']+airlinedata1['weather_delay']
-df1 = airlinedata1.groupby('carrier_name')['not_carrier_rltd'].sum().reset_index()
-airlinedata1['carrier_rltd']=airlinedata1['arr_cancelled']+airlinedata1['arr_diverted']+airlinedata1['arr_delay']+airlinedata1['carrier_delay']+airlinedata1['security_delay']+airlinedata1['late_aircraft_delay']
-df2=airlinedata1.groupby('carrier_name')['carrier_rltd'].sum().reset_index()
-df3 = airlinedata1.groupby('carrier_name')['arr_flights'].sum().reset_index()
-
-airlinedata4=airlinedata1.drop(['carrier_ct','weather_ct','nas_ct','security_ct','late_aircraft_ct'],axis=1)
-pv1 = airlinedata3.pivot_table("weather_delay", index = "month", columns = ["Statecode"], aggfunc = np.sum)
-pv2 = airlinedata1.pivot_table("late_aircraft_delay", index = "carrier_name", columns = ["month"], aggfunc = np.sum)
+#def max_stuff(file):
+#    airlinedata3=pd.read_csv('../data/raw/airline_data_filtered.csv').drop(['Unnamed: 0','carrier_ct'],axis=1)
+# 
+ #   airlinedata1['not_carrier_rltd']=airlinedata1['nas_delay']+airlinedata1['weather_delay']
+  #  df1 = airlinedata1.groupby('carrier_name')['not_carrier_rltd'].sum().reset_index()
+   # airlinedata1['carrier_rltd']=airlinedata1['arr_cancelled']+airlinedata1['arr_diverted']+airlinedata1['arr_delay']+airlinedata1['carrier_delay']+airlinedata1['security_delay']+airlinedata1['late_aircraft_delay']
+   # df2=airlinedata1.groupby('carrier_name')['carrier_rltd'].sum().reset_index()
+ #   df3 = airlinedata1.groupby('carrier_name')['arr_flights'].sum().reset_index()
+#
+  #  airlinedata4=airlinedata1.drop(['carrier_ct','weather_ct','nas_ct','security_ct','late_aircraft_ct'],axis=1)
+   # pv1 = airlinedata3.pivot_table("weather_delay", index = "month", columns = ["Statecode"], aggfunc = np.sum)
+   # pv2 = airlinedata1.pivot_table("late_aircraft_delay", index = "carrier_name", columns = ["month"], aggfunc = np.sum)
+    # return file
