@@ -30,3 +30,27 @@
 ##### American Airlines consistenly mishandles the most bags per flight of any US carrier, they do have the most complicated route network which may lead to mishandled baggage but similar airlines like Delta and United are able to avoid this. 
 ## Conclusion: Question 1
 #### 
+## Question 2:
+#### What airlines are the best and what are the worst at being on-time, canceled, delayed?
+##### Airlines that seem to have more difficulty as assumed are the budget airlines as they seem to experience the most security delays, the most over bookings. 
+![airline Late counts](images/Late_counts_vs_airline_ken.png)
+
+##### The FAA describes Security delays as such: [“caused by evacuation of a terminal or concorde, reboarding of aircraft because of security breach, inoperative screening equipment and/or long lines in excess of 29 minus at screening areas.”](https://aspm.faa.gov/aspmhelp/index/Types_of_Delay.html#:~:text=Security%20delay%20is%20caused%20by,29%20minutes%20at%20screening%20areas.so) In our findings we found that 17 percent of security delays are held by Spirit airlines. Which is quite substantial; they accumulated 38737 delays per year on average. Now this delay could be at mercy of the airport and its capabilities, however due to the budget airlines usage of buses to board the planes rather than jetways these security breaches happen much more often as buying gate space for budget airlines is simply not in their business model.  
+#### What months are the worst to travel?
+![airline Late counts](images/Arrival_delay_heatmap_ken.png)
+![airline Late counts](images/carrierdelay_count_month_ken.png)
+##### of course certain months are better to travel and other months are worse, For instance nearing the Summer from june to august it seems as if more delays persist than during the holiday season. This can be to blame as the airlines blame weather on more of their delays rather than just being late so their shortfalls appear during the summer months
+
+#### Southwest observation:
+![airline Late counts](images/arrival_flight_diverted_ken.png)
+![airline Late counts](images/Cancelled_flights_ken.png)
+##### Looks like Southwest takes the cake here on being the worst airline, for the most part they are lightyears ahead of the competition in being the worst. american airlines with a comparable fleet size out shines Southwest as Southwest seems to have many more delays and cancellations:
+![airline Late counts](images/arrival_delay_total_flights_ken.png)
+##### Over the board American Airlines is the best, because American airlines have such a robust fleet and route network, they are able to offset the effect of delays and cancellations compared to smaller airlines.
+
+##### These delays are at the mercy of the Airport and Air Traffic control as if the plane is required to make a "Go Around" then the airline has no choice. 
+![airline Late counts](images/Late_counts_vs_airline_ken.png)
+##### Also Airport delays don't always mean that the Airline is delayed. It usually results in the airport being unorganized. Another factor is that this industry is a domino industry. When I say that I mean that one issue tends to cause a lot of issues and delays down the line. So Some of these metrics are duplicates due to this "Domino Effect"
+### Who is the best and worst?
+#####  As it is quite difficult to just compare an airline based on their numerical data as the experience of flying with each airline is different, I found a top 3 list as all of these airlines do well.
+##### The top 3 are American Airlines, United Airlines and Alaska Airlines. I would say American would rank Number 1 In this top 3 list as they have so many flights that accessibility to get to your final destination is easier, and their numbers are rather stelar based on the amount of flights they have a day. As for the worst airlines to travel are Southwest, Spirit. 
