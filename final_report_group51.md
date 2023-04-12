@@ -28,6 +28,8 @@
 ##### Spirit easily leads in customer complaints per flight, averaging one complaint every 5 flights. Compared to Frontier, who operate a similar business model averages almost exactly half the complaints. Among major carriers, Delta and Southwest have very few complaints for the vast businesses they operate. Another notable mention would be SkyWest who operate many short haul flights and don't have many customer complaints.
 ##### The largest airlines in the US expectidly have the most carrier related delays, such as late arrival aircraft, crew issues, maintenance delays, etc. A noteable bright spot would be Alaska, a large airline who incures a relatively low numbers of carrier related delays.
 ##### American Airlines consistenly mishandles the most bags per flight of any US carrier, they do have the most complicated route network which may lead to mishandled baggage but similar airlines like Delta and United are able to avoid this. 
+[Too explore deeper analysis regarding this question, click here](https://github.com/ubco-W2022T2-data301/project-group-group51/blob/main/analysis/analysis1.ipynb)
+
 ## Question 2:
 #### What airlines are the best and what are the worst at being on-time, canceled, delayed?
 ##### Airlines that seem to have more difficulty as assumed are the budget airlines as they seem to experience the most security delays, the most over bookings. 
@@ -52,8 +54,11 @@
 ### Who is the best and worst?
 #####  As it is quite difficult to just compare an airline based on their numerical data as the experience of flying with each airline is different, I found a top 3 list as all of these airlines do well.
 ##### The top 3 are American Airlines, United Airlines and Alaska Airlines. I would say American would rank Number 1 In this top 3 list as they have so many flights that accessibility to get to your final destination is easier, and their numbers are rather stelar based on the amount of flights they have a day. As for the worst airlines to travel are Southwest, Spirit. 
+[Too explore deeper analysis regarding this question, click here](https://github.com/ubco-W2022T2-data301/project-group-group51/blob/main/analysis/analysis1.ipynb)
+
 ### Conclusion:
 
 ##### In conclusion the perfect trip would consist of flying in March or November, through secondary airports at major US cities on Alaska Airlines. This is because the least delays happen in the aforementioned months, probably because air travel slows down in these months. At the secondary airports in major US cities, there are usually still many flights to diverse destinations without the number of delays caused by major airports. Alaska Airlines has comparably small carrier related delays and FAA complaints. They have very few oversales but do mishandle baggage frequently. The diverse route network and good service may make up for this one fault making Alaska the best choice from this analysis.
 
 ##### If you were to base your decision on just efficiency and getting from point A to point B with flight availability your best choice would be to pick American Airlines, United Airlines or Alaska Airlines. However American Airlines is the best for flight availability and flight networks as their flight availability and routes are much more than other airlines. Due to American's large fleet and their consistent track record they are the best performing airline, following suit is United and Alaska Airlines. Air Carriers to avoid are the budget airlines like Spirit airlines and Southwest due to the nature of their business model it forces large hiccups further down the road for the airline. 
+
